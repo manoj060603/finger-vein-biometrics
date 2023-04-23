@@ -1,7 +1,7 @@
 import tensorflow as tf
 import numpy as np
 import keras
-from keras.applications.resnet50 import ResNet50
+# from keras.applications.resnet50 import ResNet50
 from keras.applications.xception import Xception
 from keras.backend import set_session
 import cv2, os, gc
